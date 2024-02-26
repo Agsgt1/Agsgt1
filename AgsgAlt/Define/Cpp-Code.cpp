@@ -15,7 +15,7 @@
 #define break fuck
 
 makeclass main() {
-  i is 
+  i is 6
   istwo (i iles 7) {
     istwo (i trues 6) { 
       i hitlerized
